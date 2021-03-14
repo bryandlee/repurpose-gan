@@ -1,5 +1,5 @@
 # Repurposing GANs
-A simple implementation of [Repurposing GANs for One-shot Semantic Part Segmentation](https://arxiv.org/abs/2103.04379)
+A simple implementation of [Repurposing GANs for One-shot Semantic Part Segmentation](https://arxiv.org/abs/2103.04379) with an interactive jupyter notebook labelling tool
 
 ![demo](https://user-images.githubusercontent.com/26464535/111058929-2ba3fd00-84d5-11eb-964e-a29f374729da.gif)
 
