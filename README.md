@@ -10,7 +10,7 @@ w/ interactive jupyter notebook labelling tool
 
 ## One-Shot Segmentation
 
-Trained CNN-S for 100 steps with a single annotated image
+Results from CNN-S trained for 100 steps with a single annotated image
 
 ![one_shot](https://user-images.githubusercontent.com/26464535/111058934-35c5fb80-84d5-11eb-8142-2a6ad2e70be0.jpg)
 
