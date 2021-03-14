@@ -18,3 +18,7 @@ Results from CNN-S trained for 100 steps with a single annotated image
 
 ![webtoon-oneshot](https://user-images.githubusercontent.com/26464535/111059326-141a4380-84d8-11eb-86cb-fa2c7d19b8d6.jpg)
 
+
+## Auto-Shot Segmentation
+
+TODO
