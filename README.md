@@ -1,5 +1,5 @@
 # Repurposing GANs
-A minimal implementation of [Repurposing GANs for One-shot Semantic Part Segmentation](https://arxiv.org/abs/2103.04379) 
+A minimal implementation of [Repurposing GANs for One-shot Semantic Part Segmentation](https://repurposegans.github.io/) 
 
 ![demo](https://user-images.githubusercontent.com/26464535/111058929-2ba3fd00-84d5-11eb-964e-a29f374729da.gif)
 
@@ -18,7 +18,3 @@ Results from CNN-S trained for 100 steps with a single annotated image
 
 ![webtoon-oneshot](https://user-images.githubusercontent.com/26464535/111059326-141a4380-84d8-11eb-86cb-fa2c7d19b8d6.jpg)
 
-
-## Auto-Shot Segmentation
-
-TODO
